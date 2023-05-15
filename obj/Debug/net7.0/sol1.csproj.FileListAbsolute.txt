@@ -1,0 +1,15 @@
+/Users/brittneyjohnson/Downloads/sol1/bin/Debug/net7.0/sol1
+/Users/brittneyjohnson/Downloads/sol1/bin/Debug/net7.0/sol1.deps.json
+/Users/brittneyjohnson/Downloads/sol1/bin/Debug/net7.0/sol1.runtimeconfig.json
+/Users/brittneyjohnson/Downloads/sol1/bin/Debug/net7.0/sol1.dll
+/Users/brittneyjohnson/Downloads/sol1/bin/Debug/net7.0/sol1.pdb
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.csproj.AssemblyReference.cache
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.AssemblyInfoInputs.cache
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.AssemblyInfo.cs
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.csproj.CoreCompileInputs.cache
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.dll
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/refint/sol1.dll
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.pdb
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/sol1.genruntimeconfig.cache
+/Users/brittneyjohnson/Downloads/sol1/obj/Debug/net7.0/ref/sol1.dll
